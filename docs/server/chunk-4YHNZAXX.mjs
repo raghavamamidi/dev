@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{A as v,a as t,b as r,c as n,d as p,e as i,f as m,g as a,l as f,o as s,q as c,r as d,u as l}from"./chunk-IMMOINQL.mjs";var u=(()=>{class o{title="dev";name="Raghava";static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-root"]],standalone:!0,features:[a],decls:2,vars:1,template:function(e,y){e&1&&(n(0,"p"),i(1),p()),e&2&&(r(),m(y.name))}})}return o})();var g=[];var C={providers:[f({eventCoalescing:!0}),v(g),d()]};var R={providers:[l()]},x=s(C,R);var D=()=>c(u,x),z=D;export{z as a};

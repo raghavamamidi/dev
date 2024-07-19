@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{a as e,b as r,c as p,d as n,e as i,j as m,m as a,o as f,p as s,s as c,y as d}from"./chunk-GO7RZITQ.mjs";var l=(()=>{class o{title="dev";static \u0275fac=function(t){return new(t||o)};static \u0275cmp=e({type:o,selectors:[["app-root"]],standalone:!0,features:[i],decls:2,vars:0,template:function(t,A){t&1&&(r(0,"p"),n(1,"Verify you are not a robot"),p())}})}return o})();var u=[];var v={providers:[m({eventCoalescing:!0}),d(u),s()]};var x={providers:[c()]},g=a(v,x);var y=()=>f(l,g),k=y;export{k as a};
